@@ -68,7 +68,7 @@ var myComponent = Vue.extend({
         'og:description': 'Description Here',
         'og:image': 'https://example.com/image.jpg'
       }    
-    }
+    },
     // Examples of link tags
     link: {
       canonical: {
@@ -79,7 +79,7 @@ var myComponent = Vue.extend({
       },
       stylesheet: {
         href: 'https://example.com/styles.css'
-      }
+      },
       import: {
         href: 'component.html'
       }
